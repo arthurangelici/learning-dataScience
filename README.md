@@ -10,6 +10,6 @@ https://www.udemy.com/machine-learning-e-data-science-com-python/
 
 https://www.udemy.com/machinelearning/
 
-3- Machine Learning e Data Science com Python de A à Z 
+3- Machine Learning e Data Science com Python de A à Z :dart:
 
-https://www.udemy.com/machine-learning-e-data-science-com-python-y/ :dart:
+https://www.udemy.com/machine-learning-e-data-science-com-python-y/ 
