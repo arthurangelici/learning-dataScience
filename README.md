@@ -1,2 +1,2 @@
-# My study plan - Becoming A Data Scientist
+# My study plan - Data Science
 My training projects 
