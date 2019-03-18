@@ -6,10 +6,10 @@ Courses:
 
 :mortar_board: https://udemy-certificate.s3.amazonaws.com/image/UC-W98WPPX6.jpg
 
-2- Machine Learning A-Z™: Hands-On Python & R In Data Science :running:
+2 -:running: Machine Learning A-Z™: Hands-On Python & R In Data Science
 
 https://www.udemy.com/machinelearning/
 
-3- Machine Learning e Data Science com Python de A à Z :dart:
+3 - :dart: Machine Learning e Data Science com Python de A à Z 
 
 https://www.udemy.com/machine-learning-e-data-science-com-python-y/ 
